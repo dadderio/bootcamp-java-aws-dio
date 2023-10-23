@@ -1,2 +1,2 @@
-# bootcamp-java-aws-dio
-Bootcamp Desenvolvimento Java com Cloud AWS
+# Trilha Java DIO
+Trilha Java na DIO.ME
